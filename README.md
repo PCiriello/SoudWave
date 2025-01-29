@@ -15,7 +15,7 @@ Tecnologie Utilizzate
 - Installazione
 Clonare il repository
 
-git clone https://github.com/tuo-username/SoundWave.git
+git clone https://github.com/PCiriello/SoundWave
 cd SoundWave
 
 mvn clean install
