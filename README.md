@@ -12,14 +12,6 @@ Tecnologie Utilizzate
 - Apache Commons Math (FFT per analisi della frequenza)
 - Java Sound API (Acquisizione audio)
 
-- Installazione
-Clonare il repository
-
-git clone https://github.com/PCiriello/SoundWave
-cd SoundWave
-
-mvn clean install
-
 Utilizzo
 - Avvia l'applicazione
 - Riproduci una nota musicale (es. con uno strumento o la voce)
