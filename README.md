@@ -1,4 +1,4 @@
-#SoundWave - Riconoscimento Note e Costruzione di Scale Musicali
+# SoundWave - Riconoscimento Note e Costruzione di Scale Musicali
 
 SoundWave è un software scritto in Java che analizza le frequenze audio per identificare le note musicali e generare automaticamente le scale musicali corrispondenti.
 
